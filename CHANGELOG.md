@@ -1,6 +1,23 @@
-# [](/compare/v2.0.0-beta.4...v) (2025-05-26)
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [2.0.0-beta.6](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.6) (2025-06-05)
 
 
+### Features
+
+* **cadastro:** adiciona status ao lado do serviço em cadastro de pacotes ([76bc59b](https://github.com/gerenciar/gerenciar_autoescola/commit/76bc59bf49da84455c4a850b192c0052e81dada4)), closes [#1498](https://github.com/gerenciar/gerenciar_autoescola/issues/1498)
+
+
+### Bug Fixes
+
+* **agenda:** corrige campo de status na impressão dos relatórios pra condizer com o calendário ([e90f33b](https://github.com/gerenciar/gerenciar_autoescola/commit/e90f33b3bec5c3fecbb2b8dc928cd7e38875aca4)), closes [#1163](https://github.com/gerenciar/gerenciar_autoescola/issues/1163)
+* **cadastro:** corrige cadastro de autoescolas não afetando o banco de dados ([651a274](https://github.com/gerenciar/gerenciar_autoescola/commit/651a274b6fde433f0df6df99fbd6165b366cb7ad)), closes [#1508](https://github.com/gerenciar/gerenciar_autoescola/issues/1508)
+* **caixa:** evita que caixa seja duplicado por clicar várias vezes em inserir caixa ([984ce02](https://github.com/gerenciar/gerenciar_autoescola/commit/984ce0253d0aa2203be5ca114b3efe900f26eb1a)), closes [#1532](https://github.com/gerenciar/gerenciar_autoescola/issues/1532)
+* **catraca:** Corrigida exportação da catraca para aparecer o nome da empresa ([6283e86](https://github.com/gerenciar/gerenciar_autoescola/commit/6283e869b0e1639da2fa2331b159b3caa8f6f6b2))
+* **exames:** Corrigido filtro de status para o exame de renovação ([704a129](https://github.com/gerenciar/gerenciar_autoescola/commit/704a129943a7bb52f5b6b7b4461fa94236f14e2e)), closes [#1181](https://github.com/gerenciar/gerenciar_autoescola/issues/1181)
+* **login:** Recupera aviso de empresa bloqueada para admin ao logar ([313a683](https://github.com/gerenciar/gerenciar_autoescola/commit/313a683149b42d6539a688d9a0faad59669503dc)), closes [#1180](https://github.com/gerenciar/gerenciar_autoescola/issues/1180)
 
 # [2.0.0-beta.4] (2025-05-26)
 
