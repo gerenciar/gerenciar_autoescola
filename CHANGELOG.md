@@ -2,7 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [2.0.0-beta.6](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.6) (2025-06-05)
+## [2.0.0-beta.7](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6...v2.0.0-beta.7) (2025-06-06)
+
+## [2.0.0-beta.5.thiago.dev](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.5.thiago.dev) (2025-06-03)
+
+
+### Features
+
+* **cadastro:** adiciona status ao lado do serviço em cadastro de pacotes ([3fb303d](https://github.com/gerenciar/gerenciar_autoescola/commit/3fb303debbdd02578ba747c0387c28d73cf5e4ca)), closes [#1498](https://github.com/gerenciar/gerenciar_autoescola/issues/1498)
+* **cadastro:** evita que conta destino seja cadastrado em branco em formas de pagamento ([2a6f328](https://github.com/gerenciar/gerenciar_autoescola/commit/2a6f32802c862a10826d272d8693ca10747e165d)), closes [#1536](https://github.com/gerenciar/gerenciar_autoescola/issues/1536)
+* **caixa:** centro de custos em saída filtra somente despesas ([52bfbc8](https://github.com/gerenciar/gerenciar_autoescola/commit/52bfbc878d7e9fd6e27626756639d4b30ef2b8f5)), closes [#1537](https://github.com/gerenciar/gerenciar_autoescola/issues/1537)
+* **relatório:** adiciona campo de observação em aulas - matricial ([1aefde4](https://github.com/gerenciar/gerenciar_autoescola/commit/1aefde45adcbcc0333b868f0fb7a3c82d6dbc5a1)), closes [#1379](https://github.com/gerenciar/gerenciar_autoescola/issues/1379)
+
+
+### Bug Fixes
+
+* **agenda:** corrige campo de status na impressão dos relatórios pra condizer com o calendário ([c1d1d5c](https://github.com/gerenciar/gerenciar_autoescola/commit/c1d1d5cb7ad9ae9a47c068515facc0dab1c9bc31)), closes [#1163](https://github.com/gerenciar/gerenciar_autoescola/issues/1163)
+* **cadastro:** corrige cadastro de autoescolas não afetando o banco de dados ([49e69f5](https://github.com/gerenciar/gerenciar_autoescola/commit/49e69f52920ae0620d86458318587bee642458aa)), closes [#1508](https://github.com/gerenciar/gerenciar_autoescola/issues/1508)
+* **caixa:** evita que caixa seja duplicado por clicar várias vezes em inserir caixa ([fe344a6](https://github.com/gerenciar/gerenciar_autoescola/commit/fe344a6c15bb9ab7517742a8b66f8b44de4e11a8)), closes [#1532](https://github.com/gerenciar/gerenciar_autoescola/issues/1532)
+* **exames:** Corrigido filtro de status para o exame de renovação ([ca43517](https://github.com/gerenciar/gerenciar_autoescola/commit/ca435173f6198faaff8b68934de33e18401012de)), closes [#1181](https://github.com/gerenciar/gerenciar_autoescola/issues/1181)
+* **login:** Recupera aviso de empresa bloqueada para admin ao logar ([6e921eb](https://github.com/gerenciar/gerenciar_autoescola/commit/6e921eb1a14a24a35b63a80ed2712f8ab95d3444)), closes [#1180](https://github.com/gerenciar/gerenciar_autoescola/issues/1180)
+
+## [2.0.0-beta.6](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.6) (2025-06-03)
 
 
 ### Features
