@@ -2,9 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [2.0.0-beta.7](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6...v2.0.0-beta.7) (2025-06-06)
-
-## [2.0.0-beta.5.thiago.dev](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.5.thiago.dev) (2025-06-03)
+## [2.0.0-beta.7] (2025-06-06)
 
 
 ### Features
@@ -23,7 +21,7 @@ All notable changes to this project will be documented in this file. See [standa
 * **exames:** Corrigido filtro de status para o exame de renovação ([ca43517](https://github.com/gerenciar/gerenciar_autoescola/commit/ca435173f6198faaff8b68934de33e18401012de)), closes [#1181](https://github.com/gerenciar/gerenciar_autoescola/issues/1181)
 * **login:** Recupera aviso de empresa bloqueada para admin ao logar ([6e921eb](https://github.com/gerenciar/gerenciar_autoescola/commit/6e921eb1a14a24a35b63a80ed2712f8ab95d3444)), closes [#1180](https://github.com/gerenciar/gerenciar_autoescola/issues/1180)
 
-## [2.0.0-beta.6](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.6) (2025-06-03)
+## [2.0.0-beta.6] (2025-06-03)
 
 
 ### Features
