@@ -16,40 +16,7 @@ All notable changes to this project will be documented in this file. See [standa
 * **relatorios:** corrige quantidade de parcelas em branco na impressão detalhada do acerto ([c042ec9](https://github.com/gerenciar/gerenciar_autoescola/commit/c042ec9a21c156902ac414cbb911b82de91d4eb2)), closes [#1566](https://github.com/gerenciar/gerenciar_autoescola/issues/1566)
 * **layout:** corrige frase estranha em relatórios gerencias no mobile ([251bc0c](https://github.com/gerenciar/gerenciar_autoescola/commit/251bc0c40a08e08c9c4b03c9c36200f4494b1f18)), closes [#1525](https://github.com/gerenciar/gerenciar_autoescola/issues/1525)
 
-## [2.0.0-beta.7](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6...v2.0.0-beta.7) (2025-06-06)
 
-
-### Features
-
-* **cadastro:** adiciona status ao lado do serviço em cadastro de pacotes ([7276d37](https://github.com/gerenciar/gerenciar_autoescola/commit/7276d37f4f046363f3804f96a4b28ab2c5efd944)), closes [#1498](https://github.com/gerenciar/gerenciar_autoescola/issues/1498)
-* **cadastro:** evita que conta destino seja cadastrado em branco em formas de pagamento ([12df428](https://github.com/gerenciar/gerenciar_autoescola/commit/12df428830e53833ed83ed75884d98fba03338cf)), closes [#1536](https://github.com/gerenciar/gerenciar_autoescola/issues/1536)
-* **caixa:** centro de custos em saída filtra somente despesas ([8c26cf0](https://github.com/gerenciar/gerenciar_autoescola/commit/8c26cf04eab93b58f11b6067feb3c216f5bf67c6)), closes [#1537](https://github.com/gerenciar/gerenciar_autoescola/issues/1537)
-* **relatório:** adiciona campo de observação em aulas - matricial ([700043b](https://github.com/gerenciar/gerenciar_autoescola/commit/700043b190c0cba9d11fae847b27d1ce54e3e8df)), closes [#1379](https://github.com/gerenciar/gerenciar_autoescola/issues/1379)
-
-
-### Bug Fixes
-
-* **agenda:** corrige campo de status na impressão dos relatórios pra condizer com o calendário ([1065ddb](https://github.com/gerenciar/gerenciar_autoescola/commit/1065ddb3df94e1a3fa8be0dad426e3cb72aca37d)), closes [#1163](https://github.com/gerenciar/gerenciar_autoescola/issues/1163)
-* **cadastro:** corrige cadastro de autoescolas não afetando o banco de dados ([07c546b](https://github.com/gerenciar/gerenciar_autoescola/commit/07c546b880ce9c873aa18b5a17d264214cf223f0)), closes [#1508](https://github.com/gerenciar/gerenciar_autoescola/issues/1508)
-* **caixa:** evita que caixa seja duplicado por clicar várias vezes em inserir caixa ([7b7b70a](https://github.com/gerenciar/gerenciar_autoescola/commit/7b7b70a94000254e55f5559d9ba4b25875e21b70)), closes [#1532](https://github.com/gerenciar/gerenciar_autoescola/issues/1532)
-* **exames:** Corrigido filtro de status para o exame de renovação ([a6ced7d](https://github.com/gerenciar/gerenciar_autoescola/commit/a6ced7d520d51639d52d09187ff96af68927102f)), closes [#1181](https://github.com/gerenciar/gerenciar_autoescola/issues/1181)
-* **login:** Recupera aviso de empresa bloqueada para admin ao logar ([58050d3](https://github.com/gerenciar/gerenciar_autoescola/commit/58050d3358fa1e65a52d87172ac886b3be07d238)), closes [#1180](https://github.com/gerenciar/gerenciar_autoescola/issues/1180)
-
-## [2.0.0-beta.6](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6.tharc.dev...v2.0.0-beta.6) (2025-06-06)
-
-## [2.0.0-beta.5](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.5.allan.dev...v2.0.0-beta.5) (2025-05-28)
-
-
-### Bug Fixes
-
-* **catraca:** Corrigida exportação da catraca para aparecer o nome da empresa ([6283e86](https://github.com/gerenciar/gerenciar_autoescola/commit/6283e869b0e1639da2fa2331b159b3caa8f6f6b2))
-
-## [2.0.0-beta.5.allan.dev](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.4...v2.0.0-beta.5.allan.dev) (2025-05-27)
-
-
-### Features
-
-* **caixa:** opção de fechar caixa na configuração de email conta com período de datas ([03b26b8](https://github.com/gerenciar/gerenciar_autoescola/commit/03b26b82a2a1cca9f38fb8fc0d0dd36b8b518c4e))
 
 # [2.0.0-beta.7](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6...v2.0.0-beta.7) (2025-06-06)
 
