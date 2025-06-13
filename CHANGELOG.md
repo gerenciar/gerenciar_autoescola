@@ -12,7 +12,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* corrige impressão de aulas - matricial e lazer ([a02cf99](https://github.com/gerenciar/gerenciar_autoescola/commit/a02cf992f1ad5e7d872f448b19b39c9b50fc4883)), closes [#1290](https://github.com/gerenciar/gerenciar_autoescola/issues/1290)
+* **relatorios:** corrige impressão de aulas - matricial e lazer ([a02cf99](https://github.com/gerenciar/gerenciar_autoescola/commit/a02cf992f1ad5e7d872f448b19b39c9b50fc4883)), closes [#1290](https://github.com/gerenciar/gerenciar_autoescola/issues/1290)
+* **relatorios:** corrige quantidade de parcelas em branco na impressão detalhada do acerto ([c042ec9](https://github.com/gerenciar/gerenciar_autoescola/commit/c042ec9a21c156902ac414cbb911b82de91d4eb2)), closes [#1566](https://github.com/gerenciar/gerenciar_autoescola/issues/1566)
 * **layout:** corrige frase estranha em relatórios gerencias no mobile ([251bc0c](https://github.com/gerenciar/gerenciar_autoescola/commit/251bc0c40a08e08c9c4b03c9c36200f4494b1f18)), closes [#1525](https://github.com/gerenciar/gerenciar_autoescola/issues/1525)
 
 ## [2.0.0-beta.7](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.6...v2.0.0-beta.7) (2025-06-06)
