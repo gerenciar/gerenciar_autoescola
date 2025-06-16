@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0-beta.9](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.8...v2.0.0-beta.9) (2025-06-16)
+
+
+### Bug Fixes
+
+* **relatórios:** corrige erro na data do pagamento do recibo causado na correção anterior ([95b305b](https://github.com/gerenciar/gerenciar_autoescola/commit/95b305bb593370fb1066c584025f95c6a7aba134)), closes [#1140](https://github.com/gerenciar/gerenciar_autoescola/issues/1140)
+
 ## [2.0.0-beta.8](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.7.tharc.dev...v2.0.0-beta.8) (2025-06-13)
 
 
