@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * **acerto:** corrige soma do desconto e acrécimo na impressão do acerto ([28877c7](https://github.com/gerenciar/gerenciar_autoescola/commit/28877c7950e0869d15253e26474035839ab84812)), closes [#1316](https://github.com/gerenciar/gerenciar_autoescola/issues/1316)
-* **relatórios:** corrige impressão de itens do aluno para sair a empresa correta ([f66f8b8](https://github.com/gerenciar/gerenciar_autoescola/commit/f66f8b8d1fd21fb039bfbd81333feaca291e5997)), closes [#1316](https://github.com/gerenciar/gerenciar_autoescola/issues/1316)
+* **relatórios:** corrige impressão de itens do aluno para sair a empresa correta ([f66f8b8](https://github.com/gerenciar/gerenciar_autoescola/commit/f66f8b8d1fd21fb039bfbd81333feaca291e5997)), closes [#1583](https://github.com/gerenciar/gerenciar_autoescola/issues/1583)
 
 ## [2.0.0-beta.9](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.8...v2.0.0-beta.9) (2025-06-16)
 
