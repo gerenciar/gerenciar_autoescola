@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0...v2.1.0) (2025-07-07)
+
+
+### Features
+
+* **cadastro:** torna forma de captação obrigatória em alunos para CFC Almeida ([bbcf631](https://github.com/gerenciar/gerenciar_autoescola/commit/bbcf631d91e0f3a7b8fd8937d666250fd1ee30ca)), closes [#1632](https://github.com/gerenciar/gerenciar_autoescola/issues/1632)
+* **caixa:** adiciona logs no fechamento de caixa ([7485599](https://github.com/gerenciar/gerenciar_autoescola/commit/7485599690ab57e0bfc2fbfa707f73fe807fa0ca)), closes [#1599](https://github.com/gerenciar/gerenciar_autoescola/issues/1599)
+
+
+### Bug Fixes
+
+* **agenda:** bloqueia baixa da aula se já existem 3 aulas baixadas dessa categoria no dia ([412290c](https://github.com/gerenciar/gerenciar_autoescola/commit/412290c5ed426f5936c16d8245858cef3dbe2423)), closes [#1455](https://github.com/gerenciar/gerenciar_autoescola/issues/1455)
+* **indicadores:** corrige gráficos mostrando informação errada ([d710c57](https://github.com/gerenciar/gerenciar_autoescola/commit/d710c576215fce9b25ae1af4d65f1cc1732b2d9c)), closes [#1631](https://github.com/gerenciar/gerenciar_autoescola/issues/1631)
+
 ## [2.0.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0-beta.10...v2.0.0) (2025-06-25)
 
 ### Bug Fixes
