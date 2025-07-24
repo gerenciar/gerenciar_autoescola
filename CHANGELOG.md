@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.1.0...v2.1.1) (2025-07-28)
+
+
+### Bug Fixes
+
+* **caixa:** adicionado tratamento de exceção e logs ao inserir forma de pagamento na venda ([1c6db72](https://github.com/gerenciar/gerenciar_autoescola/commit/1c6db72ffe12605cac47d76cae1e77705e47f4ce))
+
 ## [2.1.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0...v2.1.0) (2025-07-07)
 
 
