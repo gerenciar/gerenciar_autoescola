@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.1.0-try-catch-caixa...v2.1.1) (2025-07-30)
+
+
+### Bug Fixes
+
+* **caixa:** corrige parcelas faltando no caixa ([a202841](https://github.com/gerenciar/gerenciar_autoescola/commit/a2028417d04e336ad8ca60f1e844eccc8605b735))
+
 ## [2.1.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.0.0...v2.1.0) (2025-07-07)
 
 
