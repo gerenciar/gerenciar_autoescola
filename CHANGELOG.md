@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.2](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.1.0-try-catch-caixa...v2.1.2) (2025-08-14)
+
+
+### Bug Fixes
+
+* **boleto:** corrige erro ao tentar cancelar boleto depois de 60 dias ([2879724](https://github.com/gerenciar/gerenciar_autoescola/commit/2879724f76bf2811de1f5db53ba5ae652f9bb4b8)), closes [#2044](https://github.com/gerenciar/gerenciar_autoescola/issues/2044)
+* **caixa:** corrige duplicação de lançamentos pela quantidade de boletos enviados ([960f561](https://github.com/gerenciar/gerenciar_autoescola/commit/960f561cb3424ddf8ea8ffe18593de0d792a5cb3)), closes [#2046](https://github.com/gerenciar/gerenciar_autoescola/issues/2046)
+* **financeiro:** filtra apenas formas de pagamento ativas ([507f3d2](https://github.com/gerenciar/gerenciar_autoescola/commit/507f3d2fc91e92e4f9fe71dba7d0bf08938a6643)), closes [#1575](https://github.com/gerenciar/gerenciar_autoescola/issues/1575)
+
 ### [2.1.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.1.0-try-catch-caixa...v2.1.1) (2025-07-30)
 
 
