@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [2.4.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.4.1...v) (2025-10-03)
+# [2.4.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.4.1...v) (2025-10-01)
 
 
 ### Bug Fixes
