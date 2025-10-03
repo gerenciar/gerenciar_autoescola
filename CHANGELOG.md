@@ -2,6 +2,94 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [2.4.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.4.1...v) (2025-10-03)
+
+
+### Bug Fixes
+
+* **histórico:** corrige erro ao baixar de vários itens causado na atualização anterior ([5db44af](https://github.com/gerenciar/gerenciar_autoescola/commit/5db44af286c9a2dfde2412a6b802b17cfde230f3)), closes [#2386](https://github.com/gerenciar/gerenciar_autoescola/issues/2386)
+* **cadastro:** corrige reativação de alunos causado na última atualização ([cba5e7a](https://github.com/gerenciar/gerenciar_autoescola/commit/cba5e7a7a9b722e10e797825f608e69aacfc852d)), closes [#2373](https://github.com/gerenciar/gerenciar_autoescola/issues/2373)
+* **login:** corrige acesso do aluno inativo causado na última atualização ([aa76ec6](https://github.com/gerenciar/gerenciar_autoescola/commit/aa76ec6baf03eff4369717edb29fe3538934cff0)), closes [#2264](https://github.com/gerenciar/gerenciar_autoescola/issues/2264)
+
+
+
+# [2.4.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.4.0-thiago...v2.4.0) (2025-09-18)
+
+
+### Bug Fixes
+
+* **agenda:** remove filtro de status da aula ([4136b14](https://github.com/gerenciar/gerenciar_autoescola/commit/4136b145693505a2a2a9cec6f60843fbf047773c)), closes [#2278](https://github.com/gerenciar/gerenciar_autoescola/issues/2278)
+* **exame:** adiciona campos obrigatórios de data na solicitação de exame ([2b0ce9c](https://github.com/gerenciar/gerenciar_autoescola/commit/2b0ce9c6ab28b110e381d6fd47a6c192d4f5afde)), closes [#2252](https://github.com/gerenciar/gerenciar_autoescola/issues/2252)
+* **login:** bloqueia acesso ao sistema de alunos inativos e desistentes ([f15f3c9](https://github.com/gerenciar/gerenciar_autoescola/commit/f15f3c91cbafae042d90e30e814784cf057a3d02)), closes [#2264](https://github.com/gerenciar/gerenciar_autoescola/issues/2264)
+* **relatório:** corrige soma incorreta de valores do relatório de taxas ([98da231](https://github.com/gerenciar/gerenciar_autoescola/commit/98da23102418d68ade3ea9902dfd64834d39115b)), closes [#1629](https://github.com/gerenciar/gerenciar_autoescola/issues/1629)
+* **cadastro:** corrige cadastro de forma de pagamento ao criar conta autoescola ([ac8b0d0](https://github.com/gerenciar/gerenciar_autoescola/commit/ac8b0d029412ba8be3ba430491827461219888fb)), closes [#2014](https://github.com/gerenciar/gerenciar_autoescola/issues/2014)
+* **financeiro:** adiciona campos obrigatórios ao realizar lançamento no receber ([cbcf104](https://github.com/gerenciar/gerenciar_autoescola/commit/cbcf104edc6876e34a1df0ca64396e0c426b2988)), closes [#2291](https://github.com/gerenciar/gerenciar_autoescola/issues/2291)
+* **financeiro:** corrige o lançamento automático no caixa quando baixa uma ou mais despesas ([292258e](https://github.com/gerenciar/gerenciar_autoescola/commit/292258ebcc8950c63b6bfe5bebffbb106e461525)), closes [#2125](https://github.com/gerenciar/gerenciar_autoescola/issues/2125)
+* **financeiro:** torna Conta p/ Conciliação obrigatória ao realizar baixa ([ce41df9](https://github.com/gerenciar/gerenciar_autoescola/commit/ce41df981f1a2e9f3339b36dd6286707a0870c5e)), closes [#2140](https://github.com/gerenciar/gerenciar_autoescola/issues/2140)
+
+
+### Features
+
+* **agenda:** permite agendamento para alunos inativos ([e498c05](https://github.com/gerenciar/gerenciar_autoescola/commit/e498c0553906e716698ca443d71d9ab891a267f3)), closes [#2244](https://github.com/gerenciar/gerenciar_autoescola/issues/2244)
+* **cadastro:** adiciona novo status desistente para alunos ([5d0065b](https://github.com/gerenciar/gerenciar_autoescola/commit/5d0065b52226c9d629cfde19697db62e17f9dfba)), closes [#1339](https://github.com/gerenciar/gerenciar_autoescola/issues/1339)
+* **cadastro:** envia e-mail para m.gerenciarautoescola@gmail.com ao cadastrar CFC ([cf71d43](https://github.com/gerenciar/gerenciar_autoescola/commit/cf71d43223c944864cd6ac0a8caa943f2037b2c8)), closes [#2109](https://github.com/gerenciar/gerenciar_autoescola/issues/2109)
+* **cadastro:** torna campos obrigatórios para alunos da CFC Almeida ([94fad1b](https://github.com/gerenciar/gerenciar_autoescola/commit/94fad1b568b59dbedc754fa0b1c1769b19e0942c)), closes [#1670](https://github.com/gerenciar/gerenciar_autoescola/issues/1670)
+* **cadastro:** adiciona filtros de busca na área de inativos ([0d9102d](https://github.com/gerenciar/gerenciar_autoescola/commit/0d9102d3f0c980b936b8fea5ffbe8ba156acf045)), closes [#1861](https://github.com/gerenciar/gerenciar_autoescola/issues/1861)
+* **relatório:** adiciona campo data de vencimento no recibo térmico ([bc5ec48](https://github.com/gerenciar/gerenciar_autoescola/commit/bc5ec48ff644a32262ae072d8819f45c12b05adb)), closes [#1928](https://github.com/gerenciar/gerenciar_autoescola/issues/1928)
+* **relatório:** adiciona campo observação no relatório de ([910dc9d](https://github.com/gerenciar/gerenciar_autoescola/commit/910dc9da5872a3933dffbb6be405070a919620f8)), closes [#1283](https://github.com/gerenciar/gerenciar_autoescola/issues/1283)
+
+
+
+## [2.3.1](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.3.1-tharc...v2.3.1) (2025-09-03)
+
+
+### Bug Fixes
+
+* **acerto:** corrige valor reprovação zerado ([2b779c9](https://github.com/gerenciar/gerenciar_autoescola/commit/2b779c9297ad356780b44fbff1d9d812eff58ba2)), closes [#1905](https://github.com/gerenciar/gerenciar_autoescola/issues/1905)
+* **login:** corrige erro no acesso do aluno causado pela nova conf de proxy ([6b423de](https://github.com/gerenciar/gerenciar_autoescola/commit/6b423de6e9695fbada60ce15ef9b77674e395172))
+* **cadastro:** mostra produtos/serviços inativos na grade de pagamento do funcionário ([f5d8a55](https://github.com/gerenciar/gerenciar_autoescola/commit/f5d8a559c64eebd4d342dd485f418ebb42d5cb9b)), closes [#1877](https://github.com/gerenciar/gerenciar_autoescola/issues/1877)
+
+
+
+# [2.3.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.3.0-thiago...v2.3.0) (2025-09-03)
+
+
+### Bug Fixes
+
+* **cadastro:** aumenta capacidade de caracteres do nome do produto/serviço para 100 ([1e59586](https://github.com/gerenciar/gerenciar_autoescola/commit/1e5958678d2edf77bc4ce622b44f30957cdb0da1)), closes [#2225](https://github.com/gerenciar/gerenciar_autoescola/issues/2225)
+* **financeiro:** adiciona opção de selecionar conta Cel Cash no cadastro de contas ([0b8525e](https://github.com/gerenciar/gerenciar_autoescola/commit/0b8525e4dc8b08c339213b3035d4dc57c6d23ddb)), closes [#1579](https://github.com/gerenciar/gerenciar_autoescola/issues/1579)
+* **mobile:** corrige proporção esticada de ícones ([80febc0](https://github.com/gerenciar/gerenciar_autoescola/commit/80febc0e10d58f5c14b3dc39b3eaadffb3c794ed)), closes [#1523](https://github.com/gerenciar/gerenciar_autoescola/issues/1523)
+* **relatório:** corrige quantidade de aulas na impressão de tickets ([7f3eaf2](https://github.com/gerenciar/gerenciar_autoescola/commit/7f3eaf278beb3bf6a87788b04f3308b6bdda6dee)), closes [#2135](https://github.com/gerenciar/gerenciar_autoescola/issues/2135)
+* **relatório:** mostra taxas que não apareciam no relatório de taxas ([6a214ec](https://github.com/gerenciar/gerenciar_autoescola/commit/6a214ecfb842ba940feea9470f38dc340249acfe))
+* **histórico:** corrige erro ao entrar no histórico na área do aluno ([4dbb5cf](https://github.com/gerenciar/gerenciar_autoescola/commit/4dbb5cf6d780ab742c9cc971adde4621e6a9b9d1)), closes [#1600](https://github.com/gerenciar/gerenciar_autoescola/issues/1600)
+
+
+### Features
+
+* **cadastro:** torna endereço obrigatório para alunos ([ee5a34a](https://github.com/gerenciar/gerenciar_autoescola/commit/ee5a34af8dc44cac768216e635d4d1e723968484)), closes [#2202](https://github.com/gerenciar/gerenciar_autoescola/issues/2202)
+* **cadastro:** adiciona obrigatoriedade em campos para alunos exclusivo cfc globo ([4309163](https://github.com/gerenciar/gerenciar_autoescola/commit/43091633f7363575d60698a05f0de004d413e9f6)), closes [#2012](https://github.com/gerenciar/gerenciar_autoescola/issues/2012)
+* **caixa:** adiciona coluna data_inclusao na grade do caixa ([a6831ec](https://github.com/gerenciar/gerenciar_autoescola/commit/a6831ec2abefb2abec919239608d9c6b59a8164e)), closes [#1645](https://github.com/gerenciar/gerenciar_autoescola/issues/1645)
+* **financeiro:** adiciona '/pix' ás opções de boleto em contas a receber ([150f428](https://github.com/gerenciar/gerenciar_autoescola/commit/150f4280c865af9f5765256e79c27bf8230dcce4)), closes [#1858](https://github.com/gerenciar/gerenciar_autoescola/issues/1858)
+
+
+
+# [2.2.0](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.2.0-thiago...v2.2.0) (2025-08-21)
+
+
+### Bug Fixes
+
+* **cadastro:** corrige campos nulos na tabela matriz de autoescolas ([f6d5d99](https://github.com/gerenciar/gerenciar_autoescola/commit/f6d5d99fffe5382323788b9c9a8e7c321dcc3cfc)), closes [#1646](https://github.com/gerenciar/gerenciar_autoescola/issues/1646)
+* **financeiro:** corrige fluxo contas a pagar - baixa ([d38f895](https://github.com/gerenciar/gerenciar_autoescola/commit/d38f895cfffabf991603caee2c022daf6f612210)), closes [#1612](https://github.com/gerenciar/gerenciar_autoescola/issues/1612)
+* **relatório:** corrige a quantidade de serviços por valor na impressão de tickets ([7578cd2](https://github.com/gerenciar/gerenciar_autoescola/commit/7578cd2de936b56e5e137a726c1981f796751612)), closes [#2099](https://github.com/gerenciar/gerenciar_autoescola/issues/2099)
+* **relatório:** corrige impressão de comissão por venda ([b14e315](https://github.com/gerenciar/gerenciar_autoescola/commit/b14e31598144d70d957f420c5d6f1dc86ce9f05a)), closes [#2041](https://github.com/gerenciar/gerenciar_autoescola/issues/2041)
+
+
+### Features
+
+* **agenda:** adiciona parâmetro que bloqueia recepcionista de cancelar uma aula agendada ([a48c4cc](https://github.com/gerenciar/gerenciar_autoescola/commit/a48c4cca90393801f32c2975f985a4469c9ff086)), closes [#2115](https://github.com/gerenciar/gerenciar_autoescola/issues/2115)
+
+
+
 ### [2.1.2](https://github.com/gerenciar/gerenciar_autoescola/compare/v2.1.0-try-catch-caixa...v2.1.2) (2025-08-13)
 
 
